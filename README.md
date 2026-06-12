@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Pornsuwan! 👋
 
-<!--
-**pornsuwan/pornsuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Computer Engineering Student @ RMUT
+ยินดีที่ได้รู้จักครับ! ผมเป็นนักศึกษาคณะวิศวกรรมคอมพิวเตอร์ที่หลงใหลในการเชื่อมต่อ "ฮาร์ดแวร์" เข้ากับ "ซอฟต์แวร์" 
+ผมเชื่อว่าการเขียนโค้ดที่ทรงพลังและการออกแบบวงจรที่ชาญฉลาด สามารถสร้างโซลูชันที่แก้ปัญหาในโลกความเป็นจริงได้
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack & Skills
+### 💻 Software & Programming
+*   **Languages:** C, C++, Python
+*   **Tools:** VS Code, Git/GitHub
+
+### ⚡ Hardware & Electronics
+*   **Embedded Systems:** Arduino, ESP32
+*   **Electronics:** Circuit Design, PCB Layout, Sensors & IoT Integration
+
+
+---
+
+## 📬 Let's Connect
+*   **LinkedIn:**[https://github.com/pornsuwan/pornsuwan/edit/main/README.md]
+*   **Email:** [dxkdwngphrsuwrrn@gmail.com]
+*   **Talk to me about:** Embedded Systems, Circuit Design, Programming, or cool adventure activities!
+
+---
+*Last updated: June 2026*
